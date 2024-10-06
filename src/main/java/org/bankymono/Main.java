@@ -11,7 +11,7 @@ public class Main {
             super(name,year);
             this.isReleased = isReleased;
             this.category = category;
-            this.actualPrice = Math.max(price, MINIMUM_PRICE;
+            this.actualPrice = Math.max(price, MINIMUM_PRICE);
         }
 
     }
